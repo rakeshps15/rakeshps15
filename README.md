@@ -1,10 +1,9 @@
 # Hi, I'm Rakesh 👋
 
-### M.Sc. Computer Science Student | Software Developer | AI/ML Enthusiast
+### M.Sc. Computer Science Graduate | Software Developer | AI/ML Enthusiast
 
 I'm a Computer Science postgraduate student interested in building practical software solutions and exploring machine learning, deep learning, and application development.
 
-- 🎓 Pursuing M.Sc. Computer Science
 - 💻 Interested in software development, data science, and AI/ML
 - 🧠 Exploring deep learning for EEG-based auditory attention decoding
 - 📱 Experienced in developing Flutter applications and working with Django REST APIs
